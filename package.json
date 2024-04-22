@@ -1,0 +1,12 @@
+{
+  "name": "lp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^30.0.1"
+  }
+}
